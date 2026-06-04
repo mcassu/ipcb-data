@@ -5,7 +5,7 @@ Public JSON data source for the IPCB app, published through a stable bootstrap c
 ## Structure
 
 - `ipcb-data-bootstrap/config.json`: Stable entrypoint with the current data `tag` and CDN `baseUrl`.
-- `churches/index.json`: Church registry by `id`, with optional `latitude` and `longitude` for client proximity calculations.
+- `churches/index.json`: Church registry by `id`, with optional city/state `address`, `latitude`, and `longitude` for client proximity calculations.
 - `churches/{churchID}/manifest.json`: Church metadata + module flags (`home`, `events`, `saf`, `more`).
 - `churches/{churchID}/home.json`: Home screen payload.
 - `churches/{churchID}/events.json`: Events payload.
