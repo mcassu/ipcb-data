@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.0",
+  "events": [
+    {
+      "id": "001-2026-06-14-ebd-familia",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1511632765486-a01980e01a18",
+        "alt": "Famílias reunidas na igreja"
+      },
+      "name": "Escola Bíblica Dominical: Família Cristã",
+      "description": "Manhã de aprendizado bíblico com classes por faixa etária e estudo sobre princípios para a família.",
+      "type": "escola-biblica-dominical",
+      "location": {
+        "name": "IPCB Jacarezinho",
+        "address": "Salas de ensino e templo",
+        "latitude": -23.5489,
+        "longitude": -46.6388
+      },
+      "liturgy": {
+        "enabled": true,
+        "details": [
+          "Boas-vindas",
+          "Momento de louvor",
+          "Aula bíblica por classes",
+          "Aplicação prática"
+        ]
+      },
+      "modality": {
+        "inPerson": true,
+        "online": false,
+        "onlineUrl": ""
+      },
+      "donation": {
+        "enabled": false,
+        "pixKey": "",
+        "pixKeyType": "cpf",
+        "beneficiary": ""
+      },
+      "highlights": [
+        "Classe infantil e juvenil",
+        "Conteúdo bíblico prático",
+        "Integração entre famílias",
+        "Recepção e café fraterno"
+      ],
+      "categoryTags": [
+        "escola-biblica-dominical",
+        "familia",
+        "ensino"
+      ]
+    }
+  ],
+  "eventTemplate": {
+    "id": "evt-2026-0001",
+    "image": {
+      "url": "https://example.com/evento.jpg",
+      "alt": "Banner do evento"
+    },
+    "name": "Nome do Evento",
+    "description": "Descrição completa do evento.",
+    "type": "culto",
+    "location": {
+      "name": "Templo Sede",
+      "address": "Rua Exemplo, 123",
+      "latitude": -23.55052,
+      "longitude": -46.633308
+    },
+    "liturgy": {
+      "enabled": true,
+      "details": [
+        "Abertura com oração",
+        "Louvor congregacional",
+        "Leitura bíblica",
+        "Mensagem"
+      ]
+    },
+    "modality": {
+      "inPerson": true,
+      "online": false,
+      "onlineUrl": ""
+    },
+    "donation": {
+      "enabled": false,
+      "pixKey": "",
+      "pixKeyType": "cpf",
+      "beneficiary": ""
+    },
+    "highlights": [
+      "Programação para toda a família",
+      "Momento de comunhão",
+      "Palavra bíblica edificante",
+      "Equipe de recepção no local"
+    ],
+    "categoryTags": [
+      "culto",
+      "escola-biblica-dominical",
+      "acampamento",
+      "almoco-da-familia",
+      "reuniao-de-oracao",
+      "excursao"
+    ]
+  }
+}

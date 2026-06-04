@@ -1,0 +1,12 @@
+{
+  "id": "002",
+  "name": "2ª IPCB de Curitiba",
+  "locale": "pt-BR",
+  "updatedAt": "2026-05-24T00:00:00Z",
+  "modules": {
+    "home": true,
+    "events": true,
+    "saf": false,
+    "more": true
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "000",
+    "name": "Seminário",
+    "worshipTime": "2026-05-31T19:00:00-03:00"
+  },
+  {
+    "id": "001",
+    "name": "IPCB Jacarezinho",
+    "worshipTime": "2026-05-31T19:00:00-03:00"
+  },
+  {
+    "id": "002",
+    "name": "2ª IPCB de Curitiba",
+    "worshipTime": "2026-05-31T19:00:00-03:00"
+  }
+]
