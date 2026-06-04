@@ -7,11 +7,15 @@
   {
     "id": "001",
     "name": "IPCB Jacarezinho",
-    "worshipTime": "2026-05-31T19:00:00-03:00"
+    "worshipTime": "2026-05-31T19:00:00-03:00",
+    "latitude": -23.1587301,
+    "longitude": -49.9763656
   },
   {
     "id": "002",
     "name": "2ª IPCB de Curitiba",
-    "worshipTime": "2026-05-31T19:00:00-03:00"
+    "worshipTime": "2026-05-31T19:00:00-03:00",
+    "latitude": -25.4824201,
+    "longitude": -49.3466974
   }
 ]
