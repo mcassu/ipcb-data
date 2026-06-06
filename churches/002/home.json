@@ -1,12 +1,6 @@
 {
   "heroTitle": "Olá",
   "heroSubtitle": "Somos o corpo de Cristo.",
-  "modules": {
-    "home": true,
-    "events": true,
-    "saf": false,
-    "more": true
-  },
   "highlights": [],
   "links": []
 }

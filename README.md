@@ -5,10 +5,10 @@ Public JSON data source for the IPCB app, published through a stable bootstrap c
 ## Structure
 
 - `ipcb-data-bootstrap/config.json`: Stable entrypoint with the current data `tag` and CDN `baseUrl`.
-- `churches/index.json`: Church registry by `id`, with optional city/state `address`, `latitude`, and `longitude` for client proximity calculations.
-- `churches/{churchID}/home.json`: Home screen payload + module flags (`home`, `events`, `saf`, `more`) + additional links/content.
+- `churches/index.json`: Church registry by `id`, with optional city/state `address`, `latitude`, `longitude`, and `modules.saf`.
+- `churches/{churchID}/home.json`: Home screen payload + additional links/content.
 - `churches/{churchID}/events.json`: Events payload.
-- `churches/{churchID}/saf.json`: SAF payload (only present when `modules.saf = true`).
+- `churches/{churchID}/saf.json`: SAF payload (only present when `church.modules.saf = true`).
 - `v1/*`: Legacy versioned payloads kept for compatibility during migration.
 
 ## Bootstrap
@@ -64,7 +64,7 @@ Versioning is controlled by the bootstrap `tag`. The folder-based `v1/*` payload
   - Read the current `tag`, `baseUrl`, and `status`.
   - Use `selectedChurchID` directly as church key.
   - Build module paths from `churches/{churchID}/`.
-  - Fetch `home.json` first.
-  - Use `home.modules` to determine enabled app areas.
+  - Use `churches/index.json` to determine the selected church metadata and `modules.saf`.
+  - Fetch `home.json` for the selected church.
   - Lazy load separate payloads only for modules that still have their own file, such as `events.json` and `saf.json`.
   - Cache payloads locally by `tag + churchID + module`, then refresh in background.
