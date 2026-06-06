@@ -1,5 +1,12 @@
 {
-  "heroTitle": "Bem-vindo à 2ª IPCB de Curitiba",
-  "heroSubtitle": "Informações e destaques da igreja.",
-  "highlights": []
+  "heroTitle": "Olá",
+  "heroSubtitle": "Somos o corpo de Cristo.",
+  "modules": {
+    "home": true,
+    "events": true,
+    "saf": false,
+    "more": true
+  },
+  "highlights": [],
+  "links": []
 }

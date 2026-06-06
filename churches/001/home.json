@@ -1,5 +1,12 @@
 {
-  "heroTitle": "Bem-vindo à IPCB Jacarezinho",
-  "heroSubtitle": "Informações e destaques da igreja.",
-  "highlights": []
+  "heroTitle": "Olá",
+  "heroSubtitle": "Venha adorar o Deus vivo.",
+  "modules": {
+    "home": true,
+    "events": true,
+    "saf": true,
+    "more": true
+  },
+  "highlights": [],
+  "links": []
 }
