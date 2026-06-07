@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": "evt-2026-0001",
+      "id": "evt-2026-0005",
       "image": {
         "url": "https://images.unsplash.com/photo-1438032005730-c779502df39b",
         "alt": "Templo preparado para culto de adoração"
@@ -41,7 +41,7 @@
       }
     },
     {
-      "id": "evt-2026-0002",
+      "id": "evt-2026-0006",
       "image": {
         "url": "https://images.unsplash.com/photo-1438032005730-c779502df39b",
         "alt": "Templo preparado para culto de adoração"
@@ -81,7 +81,7 @@
       }
     },
     {
-      "id": "evt-2026-0003",
+      "id": "evt-2026-0007",
       "image": {
         "url": "https://images.unsplash.com/photo-1438032005730-c779502df39b",
         "alt": "Templo preparado para culto de adoração"
@@ -121,7 +121,7 @@
       }
     },
     {
-      "id": "evt-2026-0004",
+      "id": "evt-2026-0008",
       "image": {
         "url": "https://images.unsplash.com/photo-1438032005730-c779502df39b",
         "alt": "Templo preparado para culto de adoração"
@@ -161,13 +161,13 @@
       }
     },
     {
-      "id": "evt-2026-0005",
+      "id": "evt-2026-0001",
       "image": {
         "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65",
         "alt": "Bíblia aberta sobre uma mesa"
       },
       "date": "2026-06-07T09:00:00-03:00",
-      "name": "Escola Dominical",
+      "name": "Escola Biblica Dominical",
       "description": "Estudo sistemático da Bíblia para todas as idades, formando discípulos e fortalecendo nossa fé.",
       "type": "worship",
       "location": {
@@ -197,13 +197,13 @@
       }
     },
     {
-      "id": "evt-2026-0006",
+      "id": "evt-2026-0002",
       "image": {
         "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65",
         "alt": "Bíblia aberta sobre uma mesa"
       },
       "date": "2026-06-14T09:00:00-03:00",
-      "name": "worship",
+      "name": "Escola Biblica Dominical",
       "description": "Estudo sistemático da Bíblia para todas as idades, formando discípulos e fortalecendo nossa fé.",
       "type": "worship",
       "location": {
@@ -233,13 +233,13 @@
       }
     },
     {
-      "id": "evt-2026-0007",
+      "id": "evt-2026-0003",
       "image": {
         "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65",
         "alt": "Bíblia aberta sobre uma mesa"
       },
       "date": "2026-06-21T09:00:00-03:00",
-      "name": "worship",
+      "name": "Escola Biblica Dominical",
       "description": "Estudo sistemático da Bíblia para todas as idades, formando discípulos e fortalecendo nossa fé.",
       "type": "escola-dominical",
       "location": {
@@ -269,13 +269,13 @@
       }
     },
     {
-      "id": "evt-2026-0008",
+      "id": "evt-2026-0004",
       "image": {
         "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65",
         "alt": "Bíblia aberta sobre uma mesa"
       },
       "date": "2026-06-28T09:00:00-03:00",
-      "name": "Escola Dominical",
+      "name": "Escola Biblica Dominical",
       "description": "Estudo sistemático da Bíblia para todas as idades, formando discípulos e fortalecendo nossa fé.",
       "type": "worship",
       "location": {
@@ -598,7 +598,7 @@
         "url": "https://images.unsplash.com/photo-1504851149312-7a075b496cc7",
         "alt": "Acampamento com barracas e fogueira ao entardecer"
       },
-      "date": "2026-07-12T09:00:00-03:00",
+      "date": "2026-06-12T09:00:00-03:00",
       "name": "Acampamento",
       "description": "Dias especiais de comunhão com Deus e com os irmãos em meio à natureza, com muitas atividades e aprendizado.",
       "type": "retreat",
@@ -634,7 +634,7 @@
         "url": "https://images.unsplash.com/photo-1543352634-a1c51d9f1fa7",
         "alt": "Mesa preparada com alimentos para confraternização"
       },
-      "date": "2026-12-15T12:00:00-03:00",
+      "date": "2026-06-15T12:00:00-03:00",
       "name": "Confraternização da Igreja",
       "description": "Momento especial de comunhão, integração e gratidão pelas bênçãos que o Senhor tem derramado.",
       "type": "fellowship",
