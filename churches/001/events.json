@@ -1,5 +1,4 @@
 {
-  "schemaVersion": "2.0",
   "events": [
     {
       "id": "evt-2026-0001",
@@ -7,10 +6,10 @@
         "url": "https://images.unsplash.com/photo-1438032005730-c779502df39b",
         "alt": "Templo preparado para culto de adoração"
       },
-      "date": "2026-06-07T10:00:00-03:00",
+      "date": "2026-06-07T18:30:00-03:00",
       "name": "Culto de Adoração",
       "description": "Nossos cultos são momentos de encontro com Deus através da adoração, da pregação da Palavra e da comunhão.",
-      "type": "culto",
+      "type": "worship",
       "location": {
         "name": "IPCB Jacarezinho",
         "address": "Templo Central",
@@ -44,11 +43,203 @@
     {
       "id": "evt-2026-0002",
       "image": {
+        "url": "https://images.unsplash.com/photo-1438032005730-c779502df39b",
+        "alt": "Templo preparado para culto de adoração"
+      },
+      "date": "2026-06-14T18:30:00-03:00",
+      "name": "Culto de Adoração",
+      "description": "Nossos cultos são momentos de encontro com Deus através da adoração, da pregação da Palavra e da comunhão.",
+      "type": "worship",
+      "location": {
+        "name": "IPCB Jacarezinho",
+        "address": "Templo Central",
+        "latitude": -23.1587301,
+        "longitude": -49.9763656
+      },
+      "liturgy": {
+        "enabled": true,
+        "details": []
+      },
+      "details": [
+        {
+          "title": "O que esperar",
+          "description": "Adoração, oração, pregação e comunhão."
+        },
+        {
+          "title": "Como participar",
+          "description": "Presencialmente ou ao vivo."
+        },
+        {
+          "title": "Informações práticas",
+          "description": "Estacionamento, localização e acessibilidade."
+        }
+      ],
+      "modality": {
+        "inPerson": true,
+        "online": true,
+        "onlineUrl": ""
+      }
+    },
+    {
+      "id": "evt-2026-0003",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1438032005730-c779502df39b",
+        "alt": "Templo preparado para culto de adoração"
+      },
+      "date": "2026-06-21T18:30:00-03:00",
+      "name": "Culto de Adoração",
+      "description": "Nossos cultos são momentos de encontro com Deus através da adoração, da pregação da Palavra e da comunhão.",
+      "type": "communion",
+      "location": {
+        "name": "IPCB Jacarezinho",
+        "address": "Templo Central",
+        "latitude": -23.1587301,
+        "longitude": -49.9763656
+      },
+      "liturgy": {
+        "enabled": true,
+        "details": []
+      },
+      "details": [
+        {
+          "title": "O que esperar",
+          "description": "Adoração, oração, pregação e comunhão."
+        },
+        {
+          "title": "Como participar",
+          "description": "Presencialmente ou ao vivo."
+        },
+        {
+          "title": "Informações práticas",
+          "description": "Estacionamento, localização e acessibilidade."
+        }
+      ],
+      "modality": {
+        "inPerson": true,
+        "online": true,
+        "onlineUrl": ""
+      }
+    },
+    {
+      "id": "evt-2026-0004",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1438032005730-c779502df39b",
+        "alt": "Templo preparado para culto de adoração"
+      },
+      "date": "2026-06-28T18:30:00-03:00",
+      "name": "Culto de Adoração",
+      "description": "Nossos cultos são momentos de encontro com Deus através da adoração, da pregação da Palavra e da comunhão.",
+      "type": "worship",
+      "location": {
+        "name": "IPCB Jacarezinho",
+        "address": "Templo Central",
+        "latitude": -23.1587301,
+        "longitude": -49.9763656
+      },
+      "liturgy": {
+        "enabled": true,
+        "details": []
+      },
+      "details": [
+        {
+          "title": "O que esperar",
+          "description": "Adoração, oração, pregação e comunhão."
+        },
+        {
+          "title": "Como participar",
+          "description": "Presencialmente ou ao vivo."
+        },
+        {
+          "title": "Informações práticas",
+          "description": "Estacionamento, localização e acessibilidade."
+        }
+      ],
+      "modality": {
+        "inPerson": true,
+        "online": true,
+        "onlineUrl": ""
+      }
+    },
+    {
+      "id": "evt-2026-0005",
+      "image": {
         "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65",
         "alt": "Bíblia aberta sobre uma mesa"
       },
       "date": "2026-06-07T09:00:00-03:00",
       "name": "Escola Dominical",
+      "description": "Estudo sistemático da Bíblia para todas as idades, formando discípulos e fortalecendo nossa fé.",
+      "type": "worship",
+      "location": {
+        "name": "IPCB Jacarezinho",
+        "address": "Salas da EBD",
+        "latitude": -23.1587301,
+        "longitude": -49.9763656
+      },
+      "details": [
+        {
+          "title": "O que esperar",
+          "description": "Estudos bíblicos, classes por faixa etária e participação em grupo."
+        },
+        {
+          "title": "Classes disponíveis",
+          "description": "Crianças, adolescentes, jovens e adultos."
+        },
+        {
+          "title": "Informações práticas",
+          "description": "Salas, horários e material utilizado."
+        }
+      ],
+      "modality": {
+        "inPerson": true,
+        "online": false,
+        "onlineUrl": ""
+      }
+    },
+    {
+      "id": "evt-2026-0006",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65",
+        "alt": "Bíblia aberta sobre uma mesa"
+      },
+      "date": "2026-06-14T09:00:00-03:00",
+      "name": "worship",
+      "description": "Estudo sistemático da Bíblia para todas as idades, formando discípulos e fortalecendo nossa fé.",
+      "type": "worship",
+      "location": {
+        "name": "IPCB Jacarezinho",
+        "address": "Salas da EBD",
+        "latitude": -23.1587301,
+        "longitude": -49.9763656
+      },
+      "details": [
+        {
+          "title": "O que esperar",
+          "description": "Estudos bíblicos, classes por faixa etária e participação em grupo."
+        },
+        {
+          "title": "Classes disponíveis",
+          "description": "Crianças, adolescentes, jovens e adultos."
+        },
+        {
+          "title": "Informações práticas",
+          "description": "Salas, horários e material utilizado."
+        }
+      ],
+      "modality": {
+        "inPerson": true,
+        "online": false,
+        "onlineUrl": ""
+      }
+    },
+    {
+      "id": "evt-2026-0007",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65",
+        "alt": "Bíblia aberta sobre uma mesa"
+      },
+      "date": "2026-06-21T09:00:00-03:00",
+      "name": "worship",
       "description": "Estudo sistemático da Bíblia para todas as idades, formando discípulos e fortalecendo nossa fé.",
       "type": "escola-dominical",
       "location": {
@@ -78,15 +269,51 @@
       }
     },
     {
-      "id": "evt-2026-0003",
+      "id": "evt-2026-0008",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65",
+        "alt": "Bíblia aberta sobre uma mesa"
+      },
+      "date": "2026-06-28T09:00:00-03:00",
+      "name": "Escola Dominical",
+      "description": "Estudo sistemático da Bíblia para todas as idades, formando discípulos e fortalecendo nossa fé.",
+      "type": "worship",
+      "location": {
+        "name": "IPCB Jacarezinho",
+        "address": "Salas da EBD",
+        "latitude": -23.1587301,
+        "longitude": -49.9763656
+      },
+      "details": [
+        {
+          "title": "O que esperar",
+          "description": "Estudos bíblicos, classes por faixa etária e participação em grupo."
+        },
+        {
+          "title": "Classes disponíveis",
+          "description": "Crianças, adolescentes, jovens e adultos."
+        },
+        {
+          "title": "Informações práticas",
+          "description": "Salas, horários e material utilizado."
+        }
+      ],
+      "modality": {
+        "inPerson": true,
+        "online": false,
+        "onlineUrl": ""
+      }
+    },
+    {
+      "id": "evt-2026-0009",
       "image": {
         "url": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94",
         "alt": "Mãos unidas em oração sobre a Bíblia"
       },
-      "date": "2026-06-10T20:00:00-03:00",
+      "date": "2026-06-03T19:30:00-03:00",
       "name": "Reunião de Oração",
       "description": "Momento dedicado à oração, intercessão e busca da presença de Deus pela sua igreja e pelo mundo.",
-      "type": "reuniao-de-oracao",
+      "type": "worship",
       "location": {
         "name": "IPCB Jacarezinho",
         "address": "Sala de Oração",
@@ -114,15 +341,123 @@
       }
     },
     {
-      "id": "evt-2026-0004",
+      "id": "evt-2026-0010",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94",
+        "alt": "Mãos unidas em oração sobre a Bíblia"
+      },
+      "date": "2026-06-10T19:30:00-03:00",
+      "name": "Reunião de Oração",
+      "description": "Momento dedicado à oração, intercessão e busca da presença de Deus pela sua igreja e pelo mundo.",
+      "type": "worship",
+      "location": {
+        "name": "IPCB Jacarezinho",
+        "address": "Sala de Oração",
+        "latitude": -23.1587301,
+        "longitude": -49.9763656
+      },
+      "details": [
+        {
+          "title": "O que esperar",
+          "description": "Oração, intercessão, leitura bíblica e comunhão."
+        },
+        {
+          "title": "Como participar",
+          "description": "Presencialmente e compartilhando seus pedidos."
+        },
+        {
+          "title": "Motivos de oração",
+          "description": "Igreja, missionários, famílias, enfermos e nações."
+        }
+      ],
+      "modality": {
+        "inPerson": true,
+        "online": false,
+        "onlineUrl": ""
+      }
+    },
+    {
+      "id": "evt-2026-0011",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94",
+        "alt": "Mãos unidas em oração sobre a Bíblia"
+      },
+      "date": "2026-06-17T19:30:00-03:00",
+      "name": "Reunião de Oração",
+      "description": "Momento dedicado à oração, intercessão e busca da presença de Deus pela sua igreja e pelo mundo.",
+      "type": "worship",
+      "location": {
+        "name": "IPCB Jacarezinho",
+        "address": "Sala de Oração",
+        "latitude": -23.1587301,
+        "longitude": -49.9763656
+      },
+      "details": [
+        {
+          "title": "O que esperar",
+          "description": "Oração, intercessão, leitura bíblica e comunhão."
+        },
+        {
+          "title": "Como participar",
+          "description": "Presencialmente e compartilhando seus pedidos."
+        },
+        {
+          "title": "Motivos de oração",
+          "description": "Igreja, missionários, famílias, enfermos e nações."
+        }
+      ],
+      "modality": {
+        "inPerson": true,
+        "online": false,
+        "onlineUrl": ""
+      }
+    },
+    {
+      "id": "evt-2026-0012",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94",
+        "alt": "Mãos unidas em oração sobre a Bíblia"
+      },
+      "date": "2026-06-24T219:30:00-03:00",
+      "name": "Reunião de Oração",
+      "description": "Momento dedicado à oração, intercessão e busca da presença de Deus pela sua igreja e pelo mundo.",
+      "type": "worship",
+      "location": {
+        "name": "IPCB Jacarezinho",
+        "address": "Sala de Oração",
+        "latitude": -23.1587301,
+        "longitude": -49.9763656
+      },
+      "details": [
+        {
+          "title": "O que esperar",
+          "description": "Oração, intercessão, leitura bíblica e comunhão."
+        },
+        {
+          "title": "Como participar",
+          "description": "Presencialmente e compartilhando seus pedidos."
+        },
+        {
+          "title": "Motivos de oração",
+          "description": "Igreja, missionários, famílias, enfermos e nações."
+        }
+      ],
+      "modality": {
+        "inPerson": true,
+        "online": false,
+        "onlineUrl": ""
+      }
+    },
+    {
+      "id": "evt-2026-0013",
       "image": {
         "url": "https://images.unsplash.com/photo-1511895426328-dc8714191300",
         "alt": "Família reunida em oração dentro de casa"
       },
-      "date": "2026-06-12T20:00:00-03:00",
+      "date": "2026-06-19T20:00:00-03:00",
       "name": "Famílias que Oram",
       "description": "Incentivamos cada família a buscar a Deus em oração, fortalecendo os laços e edificando um lar segundo a Sua vontade.",
-      "type": "familias-que-oram",
+      "type": "worship",
       "location": {
         "name": "IPCB Jacarezinho",
         "address": "Na sua casa ou na igreja",
@@ -150,7 +485,7 @@
       }
     },
     {
-      "id": "evt-2026-0005",
+      "id": "evt-2026-0014",
       "image": {
         "url": "https://images.unsplash.com/photo-1551836022-d5d88e9218df",
         "alt": "Mulheres reunidas em conversa e estudo"
@@ -186,7 +521,7 @@
       }
     },
     {
-      "id": "evt-2026-0006",
+      "id": "evt-2026-0015",
       "image": {
         "url": "https://images.unsplash.com/photo-1517048676732-d65bc937f952",
         "alt": "Homens reunidos para estudo bíblico"
@@ -194,7 +529,7 @@
       "date": "2026-06-13T19:00:00-03:00",
       "name": "Reunião da UPH",
       "description": "União de homens comprometidos com o crescimento espiritual, comunhão e serviço ao Senhor.",
-      "type": "uph",
+      "type": "ministry",
       "location": {
         "name": "IPCB Jacarezinho",
         "address": "Sala dos Homens",
@@ -222,7 +557,7 @@
       }
     },
     {
-      "id": "evt-2026-0007",
+      "id": "evt-2026-0016",
       "image": {
         "url": "https://images.unsplash.com/photo-1515169067865-5387ec356754",
         "alt": "Jovens reunidos em grupo"
@@ -230,7 +565,7 @@
       "date": "2026-06-14T17:00:00-03:00",
       "name": "Reunião da UMP",
       "description": "Encontro de jovens para crescer na fé, fazer amigos e servir a Deus juntos.",
-      "type": "ump",
+      "type": "ministry",
       "location": {
         "name": "IPCB Jacarezinho",
         "address": "Sala Jovem",
@@ -258,7 +593,7 @@
       }
     },
     {
-      "id": "evt-2026-0008",
+      "id": "evt-2026-0017",
       "image": {
         "url": "https://images.unsplash.com/photo-1504851149312-7a075b496cc7",
         "alt": "Acampamento com barracas e fogueira ao entardecer"
@@ -266,7 +601,7 @@
       "date": "2026-07-12T09:00:00-03:00",
       "name": "Acampamento",
       "description": "Dias especiais de comunhão com Deus e com os irmãos em meio à natureza, com muitas atividades e aprendizado.",
-      "type": "acampamento",
+      "type": "retreat",
       "location": {
         "name": "IPCB Jacarezinho",
         "address": "Local a definir",
@@ -294,7 +629,7 @@
       }
     },
     {
-      "id": "evt-2026-0009",
+      "id": "evt-2026-0018",
       "image": {
         "url": "https://images.unsplash.com/photo-1543352634-a1c51d9f1fa7",
         "alt": "Mesa preparada com alimentos para confraternização"
@@ -302,7 +637,7 @@
       "date": "2026-12-15T12:00:00-03:00",
       "name": "Confraternização da Igreja",
       "description": "Momento especial de comunhão, integração e gratidão pelas bênçãos que o Senhor tem derramado.",
-      "type": "confraternizacao",
+      "type": "fellowship",
       "location": {
         "name": "IPCB Jacarezinho",
         "address": "Salão Social",
@@ -330,7 +665,7 @@
       }
     },
     {
-      "id": "evt-2026-0010",
+      "id": "evt-2026-0019",
       "image": {
         "url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72",
         "alt": "Sala preparada para reunião administrativa"
@@ -338,7 +673,7 @@
       "date": "2026-06-29T16:00:00-03:00",
       "name": "Assembleia da Igreja",
       "description": "Reunião oficial para deliberações, prestação de contas e planejamento da nossa igreja.",
-      "type": "assembleia",
+      "type": "institutional",
       "location": {
         "name": "IPCB Jacarezinho",
         "address": "Templo Central",
@@ -365,41 +700,5 @@
         "onlineUrl": ""
       }
     }
-  ],
-  "eventTemplate": {
-    "id": "evt-2026-0001",
-    "image": {
-      "url": "https://example.com/evento.jpg",
-      "alt": "Banner do evento"
-    },
-    "date": "2026-06-14T09:00:00-03:00",
-    "name": "Nome do Evento",
-    "description": "Descrição completa do evento.",
-    "type": "escola-dominical",
-    "location": {
-      "name": "IPCB Jacarezinho",
-      "address": "Salas de ensino e templo",
-      "latitude": -23.1587301,
-      "longitude": -49.9763656
-    },
-    "details": [
-      {
-        "title": "O que esperar",
-        "description": "Descrição do que esperar."
-      },
-      {
-        "title": "Como participar",
-        "description": "Descrição de participação."
-      },
-      {
-        "title": "Informações práticas",
-        "description": "Descrição das informações práticas."
-      }
-    ],
-    "modality": {
-      "inPerson": true,
-      "online": false,
-      "onlineUrl": ""
-    }
-  }
+  ]
 }
