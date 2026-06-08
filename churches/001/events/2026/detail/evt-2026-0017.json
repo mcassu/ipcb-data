@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-0017",
+  "image": {
+    "url": "https://images.unsplash.com/photo-1504851149312-7a075b496cc7",
+    "alt": "Acampamento com barracas e fogueira ao entardecer"
+  },
+  "date": "2026-06-12T09:00:00-03:00",
+  "name": "Acampamento",
+  "description": "Dias especiais de comunhão com Deus e com os irmãos em meio à natureza, com muitas atividades e aprendizado.",
+  "type": "retreat",
+  "location": {
+    "name": "IPCB Jacarezinho",
+    "address": "Local a definir",
+    "latitude": -23.1587301,
+    "longitude": -49.9763656
+  },
+  "details": [
+    {
+      "title": "O que esperar",
+      "description": "Devocionais, palestras, atividades recreativas e muita comunhão."
+    },
+    {
+      "title": "O que levar",
+      "description": "Bíblia, itens pessoais, roupa de cama, travesseiro e roupas adequadas."
+    },
+    {
+      "title": "Investimento",
+      "description": "R$ 150,00. Formas de pagamento na secretaria."
+    }
+  ],
+  "modality": {
+    "inPerson": true,
+    "online": false,
+    "onlineUrl": ""
+  }
+}

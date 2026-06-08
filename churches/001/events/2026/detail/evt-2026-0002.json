@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-0002",
+  "image": {
+    "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65",
+    "alt": "Bíblia aberta sobre uma mesa"
+  },
+  "date": "2026-06-14T09:00:00-03:00",
+  "name": "Escola Biblica Dominical",
+  "description": "Estudo sistemático da Bíblia para todas as idades, formando discípulos e fortalecendo nossa fé.",
+  "type": "worship",
+  "location": {
+    "name": "IPCB Jacarezinho",
+    "address": "Salas da EBD",
+    "latitude": -23.1587301,
+    "longitude": -49.9763656
+  },
+  "details": [
+    {
+      "title": "O que esperar",
+      "description": "Estudos bíblicos, classes por faixa etária e participação em grupo."
+    },
+    {
+      "title": "Classes disponíveis",
+      "description": "Crianças, adolescentes, jovens e adultos."
+    },
+    {
+      "title": "Informações práticas",
+      "description": "Salas, horários e material utilizado."
+    }
+  ],
+  "modality": {
+    "inPerson": true,
+    "online": false,
+    "onlineUrl": ""
+  }
+}

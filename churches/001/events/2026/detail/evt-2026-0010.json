@@ -1,0 +1,36 @@
+{
+  "id": "evt-2026-0010",
+  "image": {
+    "url": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94",
+    "alt": "Mãos unidas em oração sobre a Bíblia"
+  },
+  "date": "2026-06-10T19:30:00-03:00",
+  "name": "Reunião de Oração",
+  "description": "Momento dedicado à oração, intercessão e busca da presença de Deus pela sua igreja e pelo mundo.",
+  "type": "worship",
+  "location": {
+    "name": "IPCB Jacarezinho",
+    "address": "Sala de Oração",
+    "latitude": -23.1587301,
+    "longitude": -49.9763656
+  },
+  "details": [
+    {
+      "title": "O que esperar",
+      "description": "Oração, intercessão, leitura bíblica e comunhão."
+    },
+    {
+      "title": "Como participar",
+      "description": "Presencialmente e compartilhando seus pedidos."
+    },
+    {
+      "title": "Motivos de oração",
+      "description": "Igreja, missionários, famílias, enfermos e nações."
+    }
+  ],
+  "modality": {
+    "inPerson": true,
+    "online": false,
+    "onlineUrl": ""
+  }
+}
