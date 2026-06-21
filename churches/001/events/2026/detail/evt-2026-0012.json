@@ -4,7 +4,7 @@
   "date": "2026-06-24T19:30:00-03:00",
   "name": "Reunião de Oração",
   "description": "Momento dedicado à oração, intercessão e busca da presença de Deus pela sua igreja e pelo mundo.",
-  "type": "worship",
+  "type": "prayerMeeting",
   "location": {
     "name": "IPCB Jacarezinho",
     "address": "Sala de Oração",

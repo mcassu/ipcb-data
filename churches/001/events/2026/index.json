@@ -4,7 +4,7 @@
       "id": "evt-2026-0009",
       "title": "Reunião de Oração",
       "date": "2026-06-03T19:30:00-03:00",
-      "type": "worship"
+      "type": "prayerMeeting"
     },
     {
       "id": "evt-2026-0001",
@@ -22,7 +22,7 @@
       "id": "evt-2026-0010",
       "title": "Reunião de Oração",
       "date": "2026-06-10T19:30:00-03:00",
-      "type": "worship"
+      "type": "prayerMeeting"
     },
     {
       "id": "evt-2026-0017",
@@ -70,7 +70,7 @@
       "id": "evt-2026-0011",
       "title": "Reunião de Oração",
       "date": "2026-06-17T19:30:00-03:00",
-      "type": "worship"
+      "type": "prayerMeeting"
     },
     {
       "id": "evt-2026-0013",
@@ -94,7 +94,7 @@
       "id": "evt-2026-0012",
       "title": "Reunião de Oração",
       "date": "2026-06-24T19:30:00-03:00",
-      "type": "worship"
+      "type": "prayerMeeting"
     },
     {
       "id": "evt-2026-0004",
