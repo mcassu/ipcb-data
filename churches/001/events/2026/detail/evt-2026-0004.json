@@ -4,7 +4,7 @@
   "date": "2026-06-28T09:00:00-03:00",
   "name": "Escola Biblica Dominical",
   "description": "Estudo sistemático da Bíblia para todas as idades, formando discípulos e fortalecendo nossa fé.",
-  "type": "worship",
+  "type": "sds",
   "location": {
     "name": "IPCB Jacarezinho",
     "address": "Salas da EBD",

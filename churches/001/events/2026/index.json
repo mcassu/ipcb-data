@@ -10,7 +10,7 @@
       "id": "evt-2026-0001",
       "title": "Escola Biblica Dominical",
       "date": "2026-06-07T09:00:00-03:00",
-      "type": "worship"
+      "type": "sds"
     },
     {
       "id": "evt-2026-0005",
@@ -46,7 +46,7 @@
       "id": "evt-2026-0002",
       "title": "Escola Biblica Dominical",
       "date": "2026-06-14T09:00:00-03:00",
-      "type": "worship"
+      "type": "sds"
     },
     {
       "id": "evt-2026-0016",
@@ -82,7 +82,7 @@
       "id": "evt-2026-0003",
       "title": "Escola Biblica Dominical",
       "date": "2026-06-21T09:00:00-03:00",
-      "type": "escola-dominical"
+      "type": "sds"
     },
     {
       "id": "evt-2026-0007",
@@ -100,7 +100,7 @@
       "id": "evt-2026-0004",
       "title": "Escola Biblica Dominical",
       "date": "2026-06-28T09:00:00-03:00",
-      "type": "worship"
+      "type": "sds"
     },
     {
       "id": "evt-2026-0008",
