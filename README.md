@@ -8,7 +8,7 @@ Public JSON data source for the IPCB app, published through a stable bootstrap c
 - `churches/index.json`: Church registry by `id`, with optional city/state `address`, `latitude`, `longitude`, and `modules.saf`.
 - `churches/{churchID}/home.json`: Home screen payload + additional links/content.
 - `churches/{churchID}/events/index.json`: Available event years for a church.
-- `churches/{churchID}/events/{year}/index.json`: Event summary list with `id`, `title`, and `date`.
+- `churches/{churchID}/events/{year}/index.json`: Event summary list with `id`, `title`, `date`, and `type`.
 - `churches/{churchID}/events/{year}/detail/{eventID}.json`: Full event detail payload.
 - `churches/{churchID}/saf.json`: SAF payload (only present when `church.modules.saf = true`).
 - `v1/*`: Legacy versioned payloads kept for compatibility during migration.
@@ -52,7 +52,8 @@ Example yearly summary:
     {
       "id": "evt-2026-0001",
       "title": "Escola Biblica Dominical",
-      "date": "2026-06-07T09:00:00-03:00"
+      "date": "2026-06-07T09:00:00-03:00",
+      "type": "worship"
     }
   ]
 }

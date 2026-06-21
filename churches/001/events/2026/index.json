@@ -3,97 +3,116 @@
     {
       "id": "evt-2026-0009",
       "title": "Reunião de Oração",
-      "date": "2026-06-03T19:30:00-03:00"
+      "date": "2026-06-03T19:30:00-03:00",
+      "type": "worship"
     },
     {
       "id": "evt-2026-0001",
       "title": "Escola Biblica Dominical",
-      "date": "2026-06-07T09:00:00-03:00"
+      "date": "2026-06-07T09:00:00-03:00",
+      "type": "worship"
     },
     {
       "id": "evt-2026-0005",
       "title": "Culto de Adoração",
-      "date": "2026-06-07T18:30:00-03:00"
+      "date": "2026-06-07T18:30:00-03:00",
+      "type": "worship"
     },
     {
       "id": "evt-2026-0010",
       "title": "Reunião de Oração",
-      "date": "2026-06-10T19:30:00-03:00"
+      "date": "2026-06-10T19:30:00-03:00",
+      "type": "worship"
     },
     {
       "id": "evt-2026-0017",
       "title": "Acampamento",
-      "date": "2026-06-12T09:00:00-03:00"
+      "date": "2026-06-12T09:00:00-03:00",
+      "type": "retreat"
     },
     {
       "id": "evt-2026-0014",
       "title": "Reunião da SAF",
-      "date": "2026-06-13T15:00:00-03:00"
+      "date": "2026-06-13T15:00:00-03:00",
+      "type": "saf"
     },
     {
       "id": "evt-2026-0015",
       "title": "Reunião da UPH",
-      "date": "2026-06-13T19:00:00-03:00"
+      "date": "2026-06-13T19:00:00-03:00",
+      "type": "ministry"
     },
     {
       "id": "evt-2026-0002",
       "title": "Escola Biblica Dominical",
-      "date": "2026-06-14T09:00:00-03:00"
+      "date": "2026-06-14T09:00:00-03:00",
+      "type": "worship"
     },
     {
       "id": "evt-2026-0016",
       "title": "Reunião da UMP",
-      "date": "2026-06-14T17:00:00-03:00"
+      "date": "2026-06-14T17:00:00-03:00",
+      "type": "ministry"
     },
     {
       "id": "evt-2026-0006",
       "title": "Culto de Adoração",
-      "date": "2026-06-14T18:30:00-03:00"
+      "date": "2026-06-14T18:30:00-03:00",
+      "type": "worship"
     },
     {
       "id": "evt-2026-0018",
       "title": "Confraternização da Igreja",
-      "date": "2026-06-15T12:00:00-03:00"
+      "date": "2026-06-15T12:00:00-03:00",
+      "type": "fellowship"
     },
     {
       "id": "evt-2026-0011",
       "title": "Reunião de Oração",
-      "date": "2026-06-17T19:30:00-03:00"
+      "date": "2026-06-17T19:30:00-03:00",
+      "type": "worship"
     },
     {
       "id": "evt-2026-0013",
       "title": "Famílias que Oram",
-      "date": "2026-06-19T20:00:00-03:00"
+      "date": "2026-06-19T20:00:00-03:00",
+      "type": "worship"
     },
     {
       "id": "evt-2026-0003",
       "title": "Escola Biblica Dominical",
-      "date": "2026-06-21T09:00:00-03:00"
+      "date": "2026-06-21T09:00:00-03:00",
+      "type": "escola-dominical"
     },
     {
       "id": "evt-2026-0007",
       "title": "Culto de Adoração",
-      "date": "2026-06-21T18:30:00-03:00"
+      "date": "2026-06-21T18:30:00-03:00",
+      "type": "communion"
     },
     {
       "id": "evt-2026-0012",
       "title": "Reunião de Oração",
-      "date": "2026-06-24T19:30:00-03:00"
+      "date": "2026-06-24T19:30:00-03:00",
+      "type": "worship"
     },
     {
       "id": "evt-2026-0004",
       "title": "Escola Biblica Dominical",
-      "date": "2026-06-28T09:00:00-03:00"
+      "date": "2026-06-28T09:00:00-03:00",
+      "type": "worship"
     },
     {
       "id": "evt-2026-0008",
       "title": "Culto de Adoração",
-      "date": "2026-06-28T18:30:00-03:00"
+      "date": "2026-06-28T18:30:00-03:00",
+      "type": "worship"
     },
     {
       "id": "evt-2026-0019",
       "title": "Assembleia da Igreja",
-      "date": "2026-06-29T16:00:00-03:00"
+      "date": "2026-06-29T16:00:00-03:00",
+      "type": "institutional"
     }
   ]
 }
