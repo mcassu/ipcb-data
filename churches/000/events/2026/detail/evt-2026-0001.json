@@ -4,7 +4,7 @@
   "date": "2026-06-07T19:00:00-03:00",
   "name": "Culto de Ceia e Gratidão",
   "description": "Uma noite especial de adoração, palavra e comunhão da igreja em torno da mesa do Senhor.",
-  "type": "culto",
+  "type": "communion",
   "location": {
     "name": "IPCB Sede",
     "address": "Templo Central",
@@ -21,26 +21,23 @@
       "Celebração da ceia"
     ]
   },
+  "details": [
+    {
+      "title": "O que esperar",
+      "description": "Adoração, oração, pregação da Palavra e celebração da ceia."
+    },
+    {
+      "title": "Como participar",
+      "description": "Presencialmente ou acompanhando a transmissão ao vivo."
+    },
+    {
+      "title": "Informações práticas",
+      "description": "Chegue com antecedência para participar com tranquilidade."
+    }
+  ],
   "modality": {
     "inPerson": true,
     "online": true,
     "onlineUrl": "https://youtube.com/@ipcb"
-  },
-  "donation": {
-    "enabled": true,
-    "pixKey": "00.000.000/0001-00",
-    "pixKeyType": "cnpj",
-    "beneficiary": "IPCB"
-  },
-  "highlights": [
-    "Programação para toda a família",
-    "Momento de comunhão",
-    "Palavra bíblica edificante",
-    "Transmissão ao vivo"
-  ],
-  "categoryTags": [
-    "culto",
-    "ceia",
-    "adoracao"
-  ]
+  }
 }

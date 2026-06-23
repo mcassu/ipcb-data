@@ -4,43 +4,30 @@
   "date": "2026-07-18T09:00:00-03:00",
   "name": "Acampamento Renovo 2026",
   "description": "Fim de semana de retiro espiritual com estudos bíblicos, oração e comunhão entre jovens e famílias.",
-  "type": "acampamento",
+  "type": "retreat",
   "location": {
     "name": "Sítio Ebenézer",
     "address": "Zona rural",
     "latitude": -23.615,
     "longitude": -46.72
   },
-  "liturgy": {
-    "enabled": true,
-    "details": [
-      "Devocional matinal",
-      "Palestra temática",
-      "Dinâmica em grupos",
-      "Culto ao ar livre",
-      "Vigília de oração"
-    ]
-  },
+  "details": [
+    {
+      "title": "O que esperar",
+      "description": "Estudos bíblicos, oração, comunhão e atividades em meio à natureza."
+    },
+    {
+      "title": "O que levar",
+      "description": "Bíblia, itens pessoais, roupas adequadas e disposição para participar."
+    },
+    {
+      "title": "Informações práticas",
+      "description": "Programação com momentos de estudo, oração, descanso e comunhão."
+    }
+  ],
   "modality": {
     "inPerson": true,
     "online": false,
     "onlineUrl": ""
-  },
-  "donation": {
-    "enabled": true,
-    "pixKey": "doacoes@ipcb.org.br",
-    "pixKeyType": "email",
-    "beneficiary": "Ministério de Eventos IPCB"
-  },
-  "highlights": [
-    "Hospedagem inclusa",
-    "Programação espiritual completa",
-    "Atividades por faixa etária",
-    "Vagas limitadas"
-  ],
-  "categoryTags": [
-    "acampamento",
-    "retiro",
-    "comunhao"
-  ]
+  }
 }
