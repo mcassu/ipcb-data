@@ -1,6 +1,181 @@
 {
   "heroTitle": "Olá",
   "heroSubtitle": "Somos o corpo de Cristo.",
-  "highlights": [],
-  "links": []
+  "highlights": [
+    {
+      "id": "highlight-conferencia-2026",
+      "badge": "DESTAQUE",
+      "overline": "08-10 mai • vagas limitadas",
+      "title": "Conferência IPCB 2026",
+      "actionLabel": "Toque para saber mais",
+      "deepLink": "event/detail?id=evt-2026-0001"
+    },
+    {
+      "id": "highlight-encontro-comunhao",
+      "badge": "NOVO",
+      "overline": "Sábado, 18:00 • comunhão",
+      "title": "Encontro de Comunhão",
+      "actionLabel": "Ver detalhes",
+      "deepLink": "event/detail?id=evt-2026-0001"
+    }
+  ],
+  "notices": [
+    {
+      "id": "notice-weekly",
+      "title": "Aviso da Semana",
+      "description": "Confira os avisos e participe da vida da igreja nesta semana."
+    }
+  ],
+  "dailyVerses": [
+    {
+      "day": 1,
+      "text": "Este e o dia que o Senhor fez; alegremo-nos e exultemos nele.",
+      "reference": "Salmos 118:24"
+    },
+    {
+      "day": 2,
+      "text": "O Senhor e o meu pastor; nada me faltara.",
+      "reference": "Salmos 23:1"
+    },
+    {
+      "day": 3,
+      "text": "Entrega o teu caminho ao Senhor, confia nele, e o mais ele fara.",
+      "reference": "Salmos 37:5"
+    },
+    {
+      "day": 4,
+      "text": "Buscai, pois, em primeiro lugar, o seu reino e a sua justica.",
+      "reference": "Mateus 6:33"
+    },
+    {
+      "day": 5,
+      "text": "Tudo posso naquele que me fortalece.",
+      "reference": "Filipenses 4:13"
+    },
+    {
+      "day": 6,
+      "text": "Alegrai-vos sempre no Senhor; outra vez digo: alegrai-vos.",
+      "reference": "Filipenses 4:4"
+    },
+    {
+      "day": 7,
+      "text": "Lanca o teu cuidado sobre o Senhor, e ele te susterá.",
+      "reference": "Salmos 55:22"
+    },
+    {
+      "day": 8,
+      "text": "O Senhor e a minha luz e a minha salvacao; de quem terei medo?",
+      "reference": "Salmos 27:1"
+    },
+    {
+      "day": 9,
+      "text": "Sede fortes, e revigore-se o vosso coracao, vos todos que esperais no Senhor.",
+      "reference": "Salmos 31:24"
+    },
+    {
+      "day": 10,
+      "text": "O choro pode durar uma noite, mas a alegria vem pela manha.",
+      "reference": "Salmos 30:5"
+    },
+    {
+      "day": 11,
+      "text": "Bem-aventurados os limpos de coracao, porque verão a Deus.",
+      "reference": "Mateus 5:8"
+    },
+    {
+      "day": 12,
+      "text": "Porque Deus amou ao mundo de tal maneira que deu o seu Filho unigênito.",
+      "reference": "Joao 3:16"
+    },
+    {
+      "day": 13,
+      "text": "Eu sou o caminho, e a verdade, e a vida.",
+      "reference": "Joao 14:6"
+    },
+    {
+      "day": 14,
+      "text": "Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
+      "reference": "Mateus 11:28"
+    },
+    {
+      "day": 15,
+      "text": "O amor jamais acaba.",
+      "reference": "1 Corintios 13:8"
+    },
+    {
+      "day": 16,
+      "text": "Se Deus e por nos, quem sera contra nos?",
+      "reference": "Romanos 8:31"
+    },
+    {
+      "day": 17,
+      "text": "Andamos por fe e nao pelo que vemos.",
+      "reference": "2 Corintios 5:7"
+    },
+    {
+      "day": 18,
+      "text": "A tua palavra e lampada para os meus pes e luz para os meus caminhos.",
+      "reference": "Salmos 119:105"
+    },
+    {
+      "day": 19,
+      "text": "O Senhor guardara a tua saida e a tua entrada, desde agora e para sempre.",
+      "reference": "Salmos 121:8"
+    },
+    {
+      "day": 20,
+      "text": "Em tudo, dai gracas, porque esta e a vontade de Deus em Cristo Jesus para convosco.",
+      "reference": "1 Tessalonicenses 5:18"
+    },
+    {
+      "day": 21,
+      "text": "Regozijai-vos na esperanca, sede pacientes na tribulacao, na oracao, perseverantes.",
+      "reference": "Romanos 12:12"
+    },
+    {
+      "day": 22,
+      "text": "O fruto do Espirito e amor, alegria, paz, longanimidade, benignidade, bondade, fidelidade.",
+      "reference": "Galatas 5:22"
+    },
+    {
+      "day": 23,
+      "text": "Cria em mim, o Deus, um coracao puro e renova dentro de mim um espirito inabalavel.",
+      "reference": "Salmos 51:10"
+    },
+    {
+      "day": 24,
+      "text": "Perto esta o Senhor dos que tem o coracao quebrantado.",
+      "reference": "Salmos 34:18"
+    },
+    {
+      "day": 25,
+      "text": "O Senhor te abencoe e te guarde.",
+      "reference": "Numeros 6:24"
+    },
+    {
+      "day": 26,
+      "text": "E conhecereis a verdade, e a verdade vos libertara.",
+      "reference": "Joao 8:32"
+    },
+    {
+      "day": 27,
+      "text": "Sobre tudo o que se deve guardar, guarda o coracao.",
+      "reference": "Proverbios 4:23"
+    },
+    {
+      "day": 28,
+      "text": "O Senhor e bom, e fortaleza no dia da angustia.",
+      "reference": "Naum 1:7"
+    },
+    {
+      "day": 29,
+      "text": "Aquietai-vos e sabei que eu sou Deus.",
+      "reference": "Salmos 46:10"
+    },
+    {
+      "day": 30,
+      "text": "Ora, a fe e a certeza de coisas que se esperam, a conviccao de fatos que se nao veem.",
+      "reference": "Hebreus 11:1"
+    }
+  ]
 }

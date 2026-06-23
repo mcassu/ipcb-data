@@ -44,6 +44,13 @@ Events are split to keep the initial payload small:
 2. Fetch `churches/{churchID}/events/{year}/index.json` to list that year's events.
 3. Fetch `churches/{churchID}/events/{year}/detail/{eventID}.json` only when opening an event.
 
+## Home Payload
+
+The home payload keeps the existing hero and highlights fields, and can include additive content blocks:
+
+- `notices`: List of church notices, with `id`, `title`, and `description`.
+- `dailyVerses`: List of 30 daily verses, with `day`, `text`, and `reference`.
+
 Example yearly summary:
 
 ```json
