@@ -20,11 +20,7 @@
     }
   ],
   "notices": [
-    {
-      "id": "notice-weekly",
-      "title": "Aviso da Semana",
-      "description": "Confira os avisos e participe da vida da igreja nesta semana."
-    }
+    "Confira os avisos e participe da vida da igreja nesta semana."
   ],
   "dailyVerses": [
     {

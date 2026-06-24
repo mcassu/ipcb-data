@@ -48,7 +48,7 @@ Events are split to keep the initial payload small:
 
 The home payload keeps the existing hero and highlights fields, and can include additive content blocks:
 
-- `notices`: List of church notices, with `id`, `title`, and `description`.
+- `notices`: List of church notice messages as strings.
 - `dailyVerses`: List of 30 daily verses, with `day`, `text`, and `reference`.
 
 Example yearly summary:
