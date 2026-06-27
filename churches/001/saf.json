@@ -1,4 +1,22 @@
 {
-  "announcements": [],
-  "schedule": []
+  "subtitle": "Servir a Cristo e à igreja com amor e alegria.",
+  "verse": {
+    "text": "Tudo o que fizerem, façam de todo o coração, como para o Senhor.",
+    "reference": "Colossenses 3:23"
+  },
+  "instagramUrl": "https://www.instagram.com/safjacarezinho",
+  "leadership": [
+    {
+      "role": "president",
+      "name": "Talita Dionísio"
+    },
+    {
+      "role": "secretary",
+      "name": "Fernando Modesto"
+    },
+    {
+      "role": "treasurer",
+      "name": "Suzi"
+    }
+  ]
 }

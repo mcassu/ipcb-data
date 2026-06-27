@@ -51,6 +51,15 @@ The home payload keeps the existing hero and highlights fields, and can include 
 - `notices`: List of church notice messages as strings.
 - `dailyVerses`: List of 30 daily verses, with `day`, `text`, and `reference`.
 
+## SAF Payload
+
+The SAF payload can include additive presentation fields for the SAF module:
+
+- `subtitle`: Text shown below the SAF title.
+- `verse`: Highlight verse object with `text` and formatted `reference`.
+- `instagramUrl`: Optional Instagram URL. When `null` or empty, clients should hide the Instagram quick-access card.
+- `leadership`: List of SAF leadership members, each with `role` and `name`.
+
 Example yearly summary:
 
 ```json
