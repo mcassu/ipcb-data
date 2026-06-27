@@ -11,6 +11,7 @@ Public JSON data source for the IPCB app, published through a stable bootstrap c
 - `churches/{churchID}/events/{year}/index.json`: Event summary list with `id`, `title`, `date`, and `type`.
 - `churches/{churchID}/events/{year}/detail/{eventID}.json`: Full event detail payload.
 - `churches/{churchID}/saf.json`: SAF payload (only present when `church.modules.saf = true`).
+- `missions.json`: Denomination-level missions payload, shared by all churches.
 - `v1/*`: Legacy versioned payloads kept for compatibility during migration.
 
 ## Bootstrap
@@ -59,6 +60,16 @@ The SAF payload can include additive presentation fields for the SAF module:
 - `verse`: Highlight verse object with `text` and formatted `reference`.
 - `instagramUrl`: Optional Instagram URL. When `null` or empty, clients should hide the Instagram quick-access card.
 - `leadership`: List of SAF leadership members, each with `role` and `name`.
+
+## Missions Payload
+
+The missions payload is global to the denomination and should be loaded from the repository root:
+
+- `title` and `subtitle`: Main screen heading content.
+- `verse`: Highlight verse object with `text` and formatted `reference`.
+- `quickAccess`: List of quick-access cards with `id`, `label`, `icon`, and optional `url`.
+- `mission`: Text block for the "Nossa Missão" card.
+- `contribution`: Contribution card content, including `actionLabel`, optional `deepLink`, and optional donation fields.
 
 Example yearly summary:
 

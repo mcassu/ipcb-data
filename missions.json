@@ -1,0 +1,33 @@
+{
+  "subtitle": "Departamento de Missões IPCB",
+  "verse": {
+    "text": "Ide por todo o mundo, pregai o evangelho a toda criatura.",
+    "reference": "Marcos 16:15"
+  },
+  "quickAccess": [
+    {
+      "label": "Instagram",
+      "icon": "instagram",
+      "url": "https://www.instagram.com/missoesipcb/"
+    },
+    {
+      "label": "Site",
+      "icon": "globe",
+      "url": "https://missoesipcb.org.br/"
+    },
+    {
+      "label": "YouTube",
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@missoesipcb"
+    }
+  ],
+  "mission": {
+    "title": "Nossa Missão",
+    "text": "Mobilizar a igreja, enviar missionários e sustentar a obra missionária até que todos ouçam o Evangelho."
+  },
+  "contribution": {
+    "title": "Contribua com Missões",
+    "description": "Sua oferta ajuda a levar o Evangelho mais longe.",
+    "actionLabel": "Quero contribuir"
+  }
+}
