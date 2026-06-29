@@ -2,8 +2,10 @@
   {
     "id": "001",
     "name": "IPCB Jacarezinho",
-    "worshipTime": "2026-05-31T19:00:00-03:00",
+    "worshipTime": "2026-05-31T18:30:00-03:00",
     "address": "Jacarezinho, PR",
+    "phone": "+55 43 3525-1840",
+    "email": "contato@ipcbjacarezinho.org.br",
     "latitude": -23.1587301,
     "longitude": -49.9763656,
     "modules": {
@@ -15,6 +17,8 @@
     "name": "2ª IPCB de Curitiba",
     "worshipTime": "2026-05-31T19:00:00-03:00",
     "address": "Curitiba, PR",
+    "phone": "+55 41 3342-2760",
+    "email": "contato@segundaipcbcuritiba.org.br",
     "latitude": -25.4824201,
     "longitude": -49.3466974,
     "modules": {
