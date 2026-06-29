@@ -1,0 +1,33 @@
+{
+  "id": "evt-2026-0116",
+  "image": null,
+  "date": "2026-11-28T19:00:00-03:00",
+  "name": "Reunião da UPH",
+  "description": "União de homens comprometidos com o crescimento espiritual, comunhão e serviço ao Senhor.",
+  "type": "pmu",
+  "location": {
+    "name": "IPCB Jacarezinho",
+    "address": "Sala dos Homens",
+    "latitude": -23.1587301,
+    "longitude": -49.9763656
+  },
+  "details": [
+    {
+      "title": "O que esperar",
+      "description": "Estudos bíblicos, comunhão, oração e planejamento."
+    },
+    {
+      "title": "Atividades",
+      "description": "Estudos, projetos missionários e eventos especiais."
+    },
+    {
+      "title": "Público",
+      "description": "Homens da igreja e convidados."
+    }
+  ],
+  "modality": {
+    "inPerson": true,
+    "online": false,
+    "onlineUrl": ""
+  }
+}

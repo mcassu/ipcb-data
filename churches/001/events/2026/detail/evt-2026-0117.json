@@ -1,0 +1,33 @@
+{
+  "id": "evt-2026-0117",
+  "image": null,
+  "date": "2026-11-25T17:00:00-03:00",
+  "name": "Reunião da UMP",
+  "description": "Encontro de jovens para crescer na fé, fazer amigos e servir a Deus juntos.",
+  "type": "py",
+  "location": {
+    "name": "IPCB Jacarezinho",
+    "address": "Sala Jovem",
+    "latitude": -23.1587301,
+    "longitude": -49.9763656
+  },
+  "details": [
+    {
+      "title": "O que esperar",
+      "description": "Estudos bíblicos, louvor, dinâmicas e comunhão."
+    },
+    {
+      "title": "Atividades",
+      "description": "Encontros, passeios, congressos e ações sociais."
+    },
+    {
+      "title": "Público",
+      "description": "Jovens de 16 a 35 anos."
+    }
+  ],
+  "modality": {
+    "inPerson": true,
+    "online": false,
+    "onlineUrl": ""
+  }
+}

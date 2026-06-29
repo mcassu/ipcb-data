@@ -1,0 +1,33 @@
+{
+  "id": "evt-2026-0121",
+  "image": null,
+  "date": "2026-11-27T20:00:00-03:00",
+  "name": "Famílias que Oram",
+  "description": "Incentivamos cada família a buscar a Deus em oração, fortalecendo os laços e edificando um lar segundo a Sua vontade.",
+  "type": "prayerFamily",
+  "location": {
+    "name": "IPCB Jacarezinho",
+    "address": "Na sua casa ou na igreja",
+    "latitude": -23.1587301,
+    "longitude": -49.9763656
+  },
+  "details": [
+    {
+      "title": "O que esperar",
+      "description": "Oração em família, leitura bíblica e comunhão."
+    },
+    {
+      "title": "Como participar",
+      "description": "Reúna sua família e ore junto no horário proposto."
+    },
+    {
+      "title": "Materiais de apoio",
+      "description": "Guia de oração, temas semanais e devocionais para famílias."
+    }
+  ],
+  "modality": {
+    "inPerson": true,
+    "online": false,
+    "onlineUrl": ""
+  }
+}

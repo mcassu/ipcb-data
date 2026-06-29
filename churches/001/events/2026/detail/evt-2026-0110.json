@@ -1,0 +1,33 @@
+{
+  "id": "evt-2026-0110",
+  "image": null,
+  "date": "2026-10-03T16:00:00-03:00",
+  "name": "Assembleia da Igreja",
+  "description": "Reunião oficial para deliberações, prestação de contas e planejamento da nossa igreja.",
+  "type": "institutional",
+  "location": {
+    "name": "IPCB Jacarezinho",
+    "address": "Templo Central",
+    "latitude": -23.1587301,
+    "longitude": -49.9763656
+  },
+  "details": [
+    {
+      "title": "O que esperar",
+      "description": "Prestação de contas, deliberações e planejamentos."
+    },
+    {
+      "title": "Pauta",
+      "description": "Relatórios, orçamento, projetos e assuntos gerais."
+    },
+    {
+      "title": "Participação",
+      "description": "Exclusiva para membros comungantes."
+    }
+  ],
+  "modality": {
+    "inPerson": true,
+    "online": false,
+    "onlineUrl": ""
+  }
+}

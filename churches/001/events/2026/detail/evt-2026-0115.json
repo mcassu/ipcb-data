@@ -1,0 +1,33 @@
+{
+  "id": "evt-2026-0115",
+  "image": null,
+  "date": "2026-10-16T15:00:00-03:00",
+  "name": "Reunião da SAF",
+  "description": "Encontro das mulheres da igreja para estudo da Palavra, comunhão e desenvolvimento de projetos missionários.",
+  "type": "saf",
+  "location": {
+    "name": "IPCB Jacarezinho",
+    "address": "Sala da SAF",
+    "latitude": -23.1587301,
+    "longitude": -49.9763656
+  },
+  "details": [
+    {
+      "title": "O que esperar",
+      "description": "Estudo bíblico, oração, comunhão e projetos missionários."
+    },
+    {
+      "title": "Programação",
+      "description": "Palavra, oração, louvor e planejamento de atividades."
+    },
+    {
+      "title": "Público",
+      "description": "Mulheres da igreja e visitantes."
+    }
+  ],
+  "modality": {
+    "inPerson": true,
+    "online": false,
+    "onlineUrl": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "evt-2026-0087",
+  "image": null,
+  "date": "2026-08-19T12:00:00-03:00",
+  "name": "Confraternização da Igreja",
+  "description": "Momento especial de comunhão, integração e gratidão pelas bênçãos que o Senhor tem derramado.",
+  "type": "fellowship",
+  "location": {
+    "name": "IPCB Jacarezinho",
+    "address": "Salão Social",
+    "latitude": -23.1587301,
+    "longitude": -49.9763656
+  },
+  "details": [
+    {
+      "title": "O que esperar",
+      "description": "Almoço especial, dinâmicas, integração e muita alegria."
+    },
+    {
+      "title": "Informações",
+      "description": "O que levar: sobremesa ou bebida para compartilhar."
+    },
+    {
+      "title": "Participação",
+      "description": "Todos são bem-vindos. Traga sua família."
+    }
+  ],
+  "modality": {
+    "inPerson": true,
+    "online": false,
+    "onlineUrl": ""
+  }
+}

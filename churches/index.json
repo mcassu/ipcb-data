@@ -1,16 +1,5 @@
 [
   {
-    "id": "000",
-    "name": "Seminário",
-    "worshipTime": "2026-05-31T19:00:00-03:00",
-    "address": "São Bernardo do Campo - SP",
-    "latitude": -23.7749,
-    "longitude": -46.5165,
-    "modules": {
-      "saf": false
-    }
-  },
-  {
     "id": "001",
     "name": "IPCB Jacarezinho",
     "worshipTime": "2026-05-31T19:00:00-03:00",

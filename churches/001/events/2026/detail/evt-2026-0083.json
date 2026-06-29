@@ -1,0 +1,33 @@
+{
+  "id": "evt-2026-0083",
+  "image": null,
+  "date": "2026-08-04T19:30:00-03:00",
+  "name": "Reunião de Oração",
+  "description": "Momento dedicado à oração, intercessão e busca da presença de Deus pela sua igreja e pelo mundo.",
+  "type": "prayerMeeting",
+  "location": {
+    "name": "IPCB Jacarezinho",
+    "address": "Sala de Oração",
+    "latitude": -23.1587301,
+    "longitude": -49.9763656
+  },
+  "details": [
+    {
+      "title": "O que esperar",
+      "description": "Oração, intercessão, leitura bíblica e comunhão."
+    },
+    {
+      "title": "Como participar",
+      "description": "Presencialmente e compartilhando seus pedidos."
+    },
+    {
+      "title": "Motivos de oração",
+      "description": "Igreja, missionários, famílias, enfermos e nações."
+    }
+  ],
+  "modality": {
+    "inPerson": true,
+    "online": false,
+    "onlineUrl": ""
+  }
+}

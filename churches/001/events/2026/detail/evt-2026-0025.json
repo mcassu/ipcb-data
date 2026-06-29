@@ -1,0 +1,37 @@
+{
+  "id": "evt-2026-0025",
+  "image": null,
+  "date": "2026-07-19T18:30:00-03:00",
+  "name": "Culto de Adoração",
+  "description": "Nossos cultos são momentos de encontro com Deus através da adoração, da pregação da Palavra e da comunhão.",
+  "type": "communion",
+  "location": {
+    "name": "IPCB Jacarezinho",
+    "address": "Templo Central",
+    "latitude": -23.1587301,
+    "longitude": -49.9763656
+  },
+  "liturgy": {
+    "enabled": true,
+    "details": []
+  },
+  "details": [
+    {
+      "title": "O que esperar",
+      "description": "Adoração, oração, pregação e comunhão."
+    },
+    {
+      "title": "Como participar",
+      "description": "Presencialmente ou ao vivo."
+    },
+    {
+      "title": "Informações práticas",
+      "description": "Estacionamento, localização e acessibilidade."
+    }
+  ],
+  "modality": {
+    "inPerson": true,
+    "online": true,
+    "onlineUrl": ""
+  }
+}
