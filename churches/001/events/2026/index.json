@@ -76,7 +76,7 @@
       "id": "evt-2026-0013",
       "title": "Famílias que Oram",
       "date": "2026-06-19T20:00:00-03:00",
-      "type": "prayerFamily"
+      "type": "saf"
     },
     {
       "id": "evt-2026-0003",
@@ -118,7 +118,7 @@
       "id": "evt-2026-0077",
       "title": "Famílias que Oram",
       "date": "2026-07-01T20:00:00-03:00",
-      "type": "prayerFamily"
+      "type": "saf"
     },
     {
       "id": "evt-2026-0076",
@@ -280,7 +280,7 @@
       "id": "evt-2026-0086",
       "title": "Famílias que Oram",
       "date": "2026-08-14T20:00:00-03:00",
-      "type": "prayerFamily"
+      "type": "saf"
     },
     {
       "id": "evt-2026-0032",
@@ -412,7 +412,7 @@
       "id": "evt-2026-0094",
       "title": "Famílias que Oram",
       "date": "2026-09-19T20:00:00-03:00",
-      "type": "prayerFamily"
+      "type": "saf"
     },
     {
       "id": "evt-2026-0042",
@@ -538,7 +538,7 @@
       "id": "evt-2026-0112",
       "title": "Famílias que Oram",
       "date": "2026-10-17T20:00:00-03:00",
-      "type": "prayerFamily"
+      "type": "saf"
     },
     {
       "id": "evt-2026-0050",
@@ -688,7 +688,7 @@
       "id": "evt-2026-0121",
       "title": "Famílias que Oram",
       "date": "2026-11-27T20:00:00-03:00",
-      "type": "prayerFamily"
+      "type": "saf"
     },
     {
       "id": "evt-2026-0116",
@@ -820,7 +820,7 @@
       "id": "evt-2026-0135",
       "title": "Famílias que Oram",
       "date": "2026-12-30T20:00:00-03:00",
-      "type": "prayerFamily"
+      "type": "saf"
     }
   ]
 }
